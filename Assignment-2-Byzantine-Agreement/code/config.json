@@ -1,9 +1,0 @@
-{
-  "commander": {"host":"localhost", "port":9000},
-  "lieutenants": [
-    {"id":1, "host":"localhost", "port":9001, "byzantine": false},
-    {"id":2, "host":"localhost", "port":9002, "byzantine": true},
-    {"id":3, "host":"localhost", "port":9003, "byzantine": false}
-  ],
-  "f": 1
-}
